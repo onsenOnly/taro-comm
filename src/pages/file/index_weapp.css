@@ -1,0 +1,45 @@
+page{
+    width: 100%;
+    height: 100%;
+    background: #ededed;
+}
+
+.file-page{
+    width: 100%;
+}
+
+.file-page-search-bar{
+    padding-top: 50px;
+}
+
+.file-page-tip{
+    width: 100%;
+    background: white;
+}
+
+.file-page-tip-bar{
+    width: 90%;
+    line-height: 80px;
+    margin-left: 5%;
+}
+
+.file-page-tip-bar-text{
+    font-size:30px;
+}
+
+.file-page-tip-bar-clear{
+    text-align: right;
+    color: #a5a5a5;
+    font-size:30px;
+    float: right;
+    padding: 5px;
+}
+
+.file-page-tip-bar-item-view{
+    margin-left: 5%;
+    padding-bottom: 20px;
+}
+
+.file-page-tip-bar-item{
+    margin-left: 10px;
+}

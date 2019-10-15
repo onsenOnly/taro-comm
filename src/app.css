@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+
+.taro_router {
+    height: 100%;
+    }
+    
+.taro_page {
+    height: 100%;
+    overflow: auto;
+    background: #f5f5f5
+    }
+
+.rmc-pull-to-refresh-content-wrapper{
+    height: 100%;
+    overflow: auto;
+}
+
+.rmc-pull-to-refresh-content {
+    height: 100%;
+    overflow: auto;
+}

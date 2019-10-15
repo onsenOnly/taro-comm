@@ -1,0 +1,17 @@
+.search-page{
+    width: 100%;
+}
+
+.search-recommend{
+    background: white;
+}
+
+.search-recommend-not-value{
+    margin: 30px 0;
+    text-align: center;
+}
+
+.search-recommend-txt{
+    font-size: 30px;
+    color: #a2a2a2;
+}

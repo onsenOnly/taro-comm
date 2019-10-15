@@ -1,0 +1,141 @@
+.detail-page{
+    width: 100%;
+}
+
+.detail-content-page{
+    padding: 5%;
+    width: 90%;
+    background: white;
+}
+
+.detail-page-header-title{
+    font-size: 43px;
+    font-weight: bold;
+}
+
+.detail-page-header-time{
+    font-size: 30px;
+}
+
+.detail-page-header-time-txt{
+    font-size: 30px;
+    color: #585858;
+    margin-right: 20px;
+}
+
+.detail-page-header-img-view{
+    margin-top: 20px;
+}
+
+.detail-page-header-img{
+    border-radius: 5px;
+}
+
+.detail-page-header-tip{
+    text-align: center;
+}
+
+.detail-page-header-itp-img{
+    height: 40px;
+    width: 40px;
+}
+
+.detail-page-header-tip-txt{
+    font-size: 30px;
+    color: #585858;
+}
+
+.detail-page-audio{
+    margin-top: 20px;
+}
+
+.detail-page-abstract{
+    margin-top: 50px;
+}
+
+.detail-page-abstract-txt{
+    font-size: 35px;
+}
+
+.detail-page-post{
+    margin-top: 20px;
+}
+
+.detail-page-statement{
+    margin:50px 10px 0;
+    border: 2px #e5e5e5 solid;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.detail-page-statement-view{
+    line-height: 30px;
+}
+
+.detail-page-statement-txt{
+    font-size: 25px;
+    color: #a2a2a2;
+}
+
+.detail-page-statement-line{
+    width: 100%;
+    height: 2px;
+    margin: 20px 0;
+    background: #e5e5e5;
+}
+
+.detail-page-read{
+    margin-top: 30px;
+}
+
+.detail-page-read-view{
+    font-size: 30px;
+    color: #a5a5a5;
+}
+
+.detail-page-msg{
+    padding:20px 5%;
+    width: 90%;
+}
+
+.detail-page-msg-txt{
+    font-size: 30px;
+    color: #a2a2a2;
+    border-left: 5px green solid;
+    padding-left: 20px;
+}
+
+.detail-page-msg-leave{
+    float: right;
+    font-size: 30px;
+    color: skyblue;
+    padding: 15px 10px;
+}
+
+.detail-page-recommend{
+    width: 100%;
+    background: white;
+}
+
+.detail-page-recommend-divider{
+    font-size: 30px;
+    color: #a2a2a2;
+    width: 350px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.detail-page-recommend-line{
+    width: 100%;
+    height: 2px;
+    background: #e5e5e5;
+}
+
+.detail-page-bottom{
+    text-align: center;
+}
+
+.detail-page-bottom-txt{
+    font-size: 25px;
+    color: #a5a5a5
+}

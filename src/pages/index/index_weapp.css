@@ -1,0 +1,51 @@
+.index-page{
+    height: 100%;
+    width: 100%;
+    background: #f3f3f3;
+}
+
+.index-recommend{
+    background: white;
+    margin-top:20px; 
+    padding-top:20px; 
+}
+
+.index-tweets{
+    background: white;
+    margin-top:20px; 
+    padding-top:20px; 
+    margin-bottom: 60px;
+}
+
+.index-recommend-txt-view{
+    margin:0 30px 20px;
+}
+
+.index-recommend-txt{
+    font-size: 33px;
+    border-left: 8px green solid;
+    padding-left: 20px;
+}
+
+.index-recommend-line{
+    width: 100%;
+    height: 2px;
+    background: #e5e5e5;
+    /* margin-top: 10px;
+    margin-bottom: 10px; */
+}
+
+.index-page-bottom{
+    width: 100%;
+    height: 60px;
+    background:#e5e5e5;
+    position: fixed;
+    bottom: 0;
+    line-height: 60px;
+}
+
+.index-page-bottom-text{
+    color: #a2a2a2;
+    font-size: 30px;
+    margin-left: 20px;
+}

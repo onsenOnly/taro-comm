@@ -1,0 +1,57 @@
+.detail-voice-page{
+    width: 100%;
+    height:120px;
+    background: #f5f5f5;
+    border:2px #a5a5a5 solid;
+    border-radius:10px;
+}
+
+.detail-voice-icon-view{
+    float: left;
+    width: 20%; 
+    height: 120px; 
+    text-align: center;
+}
+
+.detail-voice-icon{
+    float: left;
+    width: 60px; 
+    height: 60px;
+    padding: 30px 30px;
+}
+
+.detail-voice-content-view{
+    float: right;
+    width: 80%;
+}
+
+.weui-slider{
+    padding: 20px 0;
+}
+
+.detail-voice-slider-view{
+    width: 90%;
+}
+
+.detail-voice-title-view{
+    line-height: 35px;
+    margin-top: 5px;
+}
+
+.detail-voice-title{
+    font-size: 30px;
+}
+
+.detail-voice-time-view{
+    line-height: 10px;
+    width: 90%;
+}
+
+.detail-voice-time-start{
+    font-size: 25px;
+}
+
+.detail-voice-time-end{
+    float: right;
+    font-size: 25px;
+}

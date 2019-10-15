@@ -1,0 +1,50 @@
+.comment-list-page{
+    width: 100%;
+    height: 100px；
+}
+
+.comment-list-page-item{
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.comment-list-page-item-card{
+    margin-bottom: 20px;
+}
+
+/* .comment-list-page-item-view{
+    width: 100%;
+    line-height: 50px;
+    margin-top: 20px;
+    padding-left: 30px;
+    height: 220px;
+}
+
+.comment-list-page-item-title-view{
+    width: 420px; 
+    line-height: 50px;
+    margin-left: 5%;
+}
+
+.comment-list-page-item-title{
+    font-size: 30px;
+}
+
+.comment-list-page-item-time{
+    font-size: 25px;
+    color: #a2a2a2;
+}
+
+.comment-list-page-item-img{
+    float: right;
+    width: 50px;
+    height: 50px;
+    margin-right: 60px;
+    margin-top: 70px;
+}
+
+.comment-list-page-item-line{
+    width: 100%;
+    height: 2px;
+    background: #e5e5e5;
+} */

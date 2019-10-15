@@ -1,0 +1,60 @@
+page{
+    width: 100%;
+    height: 100%;
+    background: #ededed;
+}
+
+.user-page{
+    height: 100%;
+    width: 100%;
+}
+
+.user-page-header{
+    width: 100%;
+    height:420px;
+    background:rgb(224, 43, 32);
+}
+
+.user-page-header-btn-view{
+    padding-top: 135px;
+    padding-left: 35px;
+}
+
+.user-page-header-btn{
+    margin: 0;
+    padding:10px;
+    border:none;
+    background:rgb(224, 43, 32);
+    width: 50%;
+}
+
+.user-page-header-btn::after{ border: none; }
+
+.user-page-header-img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    vertical-align: middle;
+}
+
+.user-page-header-text{
+    margin-left: 20px;
+    color: white;
+    font-size: 40px;
+}
+
+.user-page-dynamic{
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 30px;
+}
+
+.user-page-dynamic-dec{
+    width: 100%;
+    margin: 10px 0;
+}
+
+.user-page-dynamic-text{
+    color: #a5a5a5;
+    font-size: 30px;
+}

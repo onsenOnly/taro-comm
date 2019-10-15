@@ -1,0 +1,64 @@
+.detail-voice-page{
+    width: 99%;
+    height:130px;
+    background: #fafafa;
+    border:2px #f0f0f0 solid;
+    border-radius:10px;
+    overflow: visible;
+}
+
+.detail-voice-icon-view{
+    float: left;
+    width: 20%; 
+    height: 130px; 
+    text-align: center;
+}
+
+.detail-voice-icon{
+    float: left;
+    width: 60px; 
+    height: 60px;
+    padding: 35px 30px 0;
+}
+
+.detail-voice-content-view{
+    float: right;
+    width: 78%;
+}
+
+.detail-voice-slider-view{
+    width: 90%;
+    overflow: visible;
+    margin-left: 10px;
+}
+
+.detail-voice-slider{
+    margin:10px 5px;
+}     
+
+.detail-voice-title-view{
+    margin-top: 5px;
+    margin-right: 10px;
+    margin-left: 10px;
+    line-height: 35px;
+    overflow: visible;
+}
+
+.detail-voice-title{
+    font-size: 28px;
+}
+
+.detail-voice-time-view{
+    width: 90%;
+    line-height: 25px;
+    overflow: hidden;
+}
+
+.detail-voice-time-start{
+    font-size: 23px;
+}
+
+.detail-voice-time-end{
+    float: right;
+    font-size: 23px;
+}

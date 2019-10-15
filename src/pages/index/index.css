@@ -1,0 +1,21 @@
+.index-page{
+    height: 100%;
+    width: 100%;
+}
+
+.index-recommend{
+    margin-top: 20px;
+    background: white;
+}
+
+.index-recommend-txt{
+    margin:20px 30px;
+    font-size: 33px;
+}
+
+.index-recommend-line{
+    width: 100%;
+    height: 2px;
+    background: #e5e5e5;
+    margin-bottom: 20px;
+}
